@@ -1,0 +1,13 @@
+User Story :
+En tant qu’utilisateur mobile, je veux une application claire et optimisée afin de pouvoir l’utiliser confortablement depuis mon téléphone.
+
+DoD :
+
+Maquettes mobiles validées.
+
+Composants principaux implémentés (navigation, formulaires...).
+
+Application responsive ou native testée sur différentes tailles d’écran.
+
+Expérience utilisateur fluide validée.
+

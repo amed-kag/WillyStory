@@ -1,0 +1,13 @@
+User Story :
+En tant qu’utilisateur, je veux pouvoir créer et gérer des projets afin de collaborer avec mon équipe.
+
+DoD :
+
+Interface pour créer, modifier et supprimer des projets.
+
+Stockage des projets en base de données.
+
+Affichage de la liste des projets de l'utilisateur.
+
+Permissions de base vérifiées.
+

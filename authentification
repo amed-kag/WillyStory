@@ -1,0 +1,14 @@
+User Story :
+En tant qu’utilisateur, je veux pouvoir m’inscrire et me connecter de manière sécurisée afin d’accéder à mes projets.
+
+DoD :
+
+Pages d'inscription et de connexion fonctionnelles.
+
+Validation des champs (email, mot de passe...).
+
+Backend avec système d’authentification sécurisé (JWT, sessions, etc.).
+
+Tests de sécurité et gestion des erreurs.
+
+Déconnexion opérationnelle.

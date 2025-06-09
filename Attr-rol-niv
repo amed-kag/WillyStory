@@ -1,0 +1,12 @@
+User Story :
+En tant qu’administrateur, je veux pouvoir attribuer des rôles et niveaux aux membres afin de contrôler l'accès aux fonctionnalités.
+
+DoD :
+
+Rôles définis (admin, membre, reviewer, etc.).
+
+Interface d’attribution/modification des rôles.
+
+Permissions liées aux rôles en place.
+
+Stockage des rôles en base de données.

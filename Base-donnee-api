@@ -1,0 +1,13 @@
+User Story :
+En tant que développeur, je veux une base de données structurée et une API robuste afin de gérer les données de l’application.
+
+DoD :
+
+Schéma de base de données défini et implémenté.
+
+Connexion sécurisée avec le backend.
+
+Endpoints API REST ou GraphQL opérationnels.
+
+Tests unitaires sur les routes principales.
+

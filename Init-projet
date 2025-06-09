@@ -1,0 +1,15 @@
+User Story :
+En tant que développeur, je veux initialiser le projet et configurer un dépôt GitHub afin de pouvoir collaborer efficacement avec mon équipe.
+
+DoD :
+
+Dépôt GitHub créé et accessible.
+
+Structure de base du projet (frontend/backend si applicable) mise en place.
+
+.gitignore correctement configuré.
+
+Première branche (main ou dev) établie.
+
+README.md avec description du projet.
+

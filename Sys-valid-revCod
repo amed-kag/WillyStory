@@ -1,0 +1,12 @@
+User Story :
+En tant que membre de l’équipe, je veux pouvoir valider ou commenter du code soumis afin de garantir la qualité du projet.
+
+DoD :
+
+Interface de soumission de code (pull request, tâche, etc.).
+
+Interface de revue/commentaire.
+
+Système de validation ou rejet.
+
+Historique des revues consultable.

@@ -1,0 +1,13 @@
+User Story :
+En tant qu’utilisateur, je veux recevoir des récompenses (pièces) pour mes contributions afin de rester motivé.
+
+DoD :
+
+Règles de gain de pièces définies (ex : merge de PR, validation de tâches…).
+
+Affichage du solde de pièces.
+
+Mise à jour automatique après actions validées.
+
+Stockage des données de récompenses.
+
